@@ -1,0 +1,7 @@
+- user_id: joe
+  requirement_id: 019e625f-5c74-78f1-b478-848007e20fba
+  position: 1000
+  added_by: joe
+  note: Auto-queued by 'aida init' onboarding task (TASK-007)
+  added_at: 2026-05-26T03:41:17.363433664Z
+  for_role: implementer
